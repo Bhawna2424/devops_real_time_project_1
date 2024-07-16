@@ -13,7 +13,7 @@ pipeline {
         }
         stage('CODE CHECKOUT') {
             steps {
-                git 'https://github.com/Mahesh8887/devops_real_time_project_1.git'
+                git branch:'main' , url:'https://github.com/Bhawna2424/devops_real_time_project_1.git'
             }
         }
         stage('MODIFIED IMAGE TAG') {
