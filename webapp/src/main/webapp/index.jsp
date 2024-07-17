@@ -35,7 +35,7 @@
     </style>
   </head>
   <body>
-    <h1> welcome to DevOps community and Hope you found this useful Follow me for projects and more content on DevOps. Thank you🙏 </h1>
+    <h1> welcome to DevOps innowise community and Hope you found this useful Follow me for projects and more content on DevOps. Thank you🙏 </h1>
     <h2> DEVOPS_REAL_TIME_PROJECT </h2>
 
     <br>
